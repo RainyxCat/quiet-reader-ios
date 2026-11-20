@@ -1,2 +1,2 @@
 qrcode[pil]>=8.2,<9
-numpy>=1.24,<2
+numpy>=1.26,<3
